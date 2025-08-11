@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hey, I'm Vikions  
 
-<!--
-**vikions/vikions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior QA Engineer · Node Operator · Web3 Builder**  
+Passionate about blockchain, dApps, and building cool stuff on Monad.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Projects  
+
+- **[Monad Meme Board](https://github.com/vikions/monad-meme-board)** — leaderboard for meme tokens on Monad testnet.  
+- **[BlaWhiMonad](https://blawhimonad.vercel.app/)** — card game of light and dark side built for Monad Mission 6.  
+- **[Nextday Final App](https://github.com/vikions/nextday-final-app)** — mini Farcaster-integrated app on Monad.  
+
+---
+
+## 🌐 Connect with Me  
+
+[![Twitter/X](https://img.shields.io/badge/Twitter-000?logo=x&logoColor=white)](https://x.com/vikions777)
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/vikions)
+
+
+---
+
+> ⚡ Open-source enthusiast · Always learning · Building for the decentralized future.
