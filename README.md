@@ -8,7 +8,7 @@ Passionate about blockchain, dApps, and building cool stuff on Monad.
 ## 🚀 My Projects  
 
 - **[Monad Meme Board](https://github.com/vikions/monadmemeboard)** — leaderboard for meme tokens on Monad testnet.  
-- **[BlaWhiMonad](https://blawhimonad.vercel.app/)** — card game of light and dark side built for Monad Mission 6.  
+- **[BlaWhiMonad](https://blawhimonad.vercel.app/)** — card game of light and dark side 
 - **[Nextday Final App](https://github.com/vikions/nextday-final-app)** — mini Farcaster-integrated app on Monad.  
 
 ---
