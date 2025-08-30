@@ -7,6 +7,7 @@ Passionate about blockchain, dApps, and building cool stuff on Monad.
 
 ## 🚀 My Projects  
 
+- **[Monad Anti-Beat](https://monad-anti-beat.vercel.app)** — the worse your sense of rhythm, the higher your score!
 - **[Monad Meme Board](https://github.com/vikions/monadmemeboard)** — leaderboard for meme tokens on Monad testnet.  
 - **[BlaWhiMonad](https://blawhimonad.vercel.app/)** — card game of light and dark side 
 - **[Nextday Final App](https://github.com/vikions/nextday-final-app)** — mini Farcaster-integrated app on Monad.  
