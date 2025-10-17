@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Vikions  
 
 **Junior QA Engineer · Node Operator · Web3 Builder**  
-Passionate about blockchain, dApps, and building cool stuff on Monad.  
+Passionate about blockchain, dApps, and building cool stuff
 
 ---
 
