@@ -6,7 +6,7 @@ Passionate about blockchain, dApps, and building cool stuff
 ---
 
 ## 🚀 My Projects  
-
+- **[Better Call Monad](https://better-call-monad.vercel.app/)** — An unusual Monad ecosystem explorer.
 - **[3balances](https://github.com/vikions/33balances)** — Pick your side of Web3 — MetaMask, Farcaster, or Monad. 
 - **[Beat Powell](https://beat-powell-base.vercel.app)** — Every crypto trader is secretly waiting for Jerome Powell to cut rates…
 - **[Monad Anti-Beat](https://monad-anti-beat.vercel.app)** — the worse your sense of rhythm, the higher your score!
