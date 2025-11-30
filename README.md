@@ -6,6 +6,7 @@ Passionate about blockchain, dApps, and building cool stuff
 ---
 
 ## 🚀 My Projects  
+- **[OpiPolixBot](https://t.me/OpiPoliXBot)** — Designed for traders, researchers, and degens who want signal without noise.
 - **[Better Call Monad](https://better-call-monad.vercel.app/)** — An unusual Monad ecosystem explorer.
 - **[3balances](https://github.com/vikions/33balances)** — Pick your side of Web3 — MetaMask, Farcaster, or Monad. 
 - **[Beat Powell](https://beat-powell-base.vercel.app)** — Every crypto trader is secretly waiting for Jerome Powell to cut rates…
