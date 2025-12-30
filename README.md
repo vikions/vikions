@@ -3,6 +3,7 @@
 **Junior QA Engineer · Node Operator · Web3 Builder**  
 Passionate about blockchain, dApps, and building cool stuff
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vikions)](https://git.io/streak-stats)
 ---
 
 ## 🚀 My Projects  
