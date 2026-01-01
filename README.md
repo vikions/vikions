@@ -4,7 +4,7 @@
 Passionate about blockchain, dApps, and building cool stuff
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vikions&theme=merko)](https://git.io/streak-stats)
----
+
 
 ## 🚀 My Projects  
 - **[OpiPolix AutoTopUp](https://github.com/vikions/opipolix-autotopup)** — Automated balance top-up for Polymarket, Kalshi, Opinion using ERC-7715 Advanced Permissions.
