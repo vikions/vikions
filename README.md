@@ -6,7 +6,9 @@ Passionate about blockchain, dApps, and building cool stuff
 [![GitHub Streak](https://github-readme-streak-stats-snowy-two.vercel.app?user=vikions&theme=gruvbox-duo)](https://git.io/streak-stats)
 
 
-## 🚀 My Projects  
+## 🚀 My work
+- **[Polymarket Builder Dashboard](https://github.com/vikions/opipolix-builder-dashboard)** — Beautiful real-time analytics dashboard for Polymarket builders to track trading activity, volume, and user engagement.
+- **[OpiPolix Ritual](https://opipolix-ritual.vercel.app/)** — Autonomous trading agents for TGE launches and hype tokens. Open, verifiable, and powered by Ritual's execution layer.
 - **[OpiPolix AutoTopUp](https://opipolix-autotopup.vercel.app/)** — Automated balance top-up for Polymarket, Kalshi, Opinion using ERC-7715 Advanced Permissions.
 - **[OpiPolixBot](https://t.me/OpiPoliXBot)** — Designed for traders, researchers, and degens who want signal without noise.
 - **[Better Call Monad](https://better-call-monad.vercel.app/)** — An unusual Monad ecosystem explorer.
