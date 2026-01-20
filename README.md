@@ -7,7 +7,7 @@ Passionate about blockchain, dApps, and building cool stuff
 
 
 ## 🚀 My Projects  
-- **[OpiPolix AutoTopUp](https://github.com/vikions/opipolix-autotopup)** — Automated balance top-up for Polymarket, Kalshi, Opinion using ERC-7715 Advanced Permissions.
+- **[OpiPolix AutoTopUp](https://opipolix-autotopup.vercel.app/)** — Automated balance top-up for Polymarket, Kalshi, Opinion using ERC-7715 Advanced Permissions.
 - **[OpiPolixBot](https://t.me/OpiPoliXBot)** — Designed for traders, researchers, and degens who want signal without noise.
 - **[Better Call Monad](https://better-call-monad.vercel.app/)** — An unusual Monad ecosystem explorer.
 - **[3balances](https://github.com/vikions/33balances)** — Pick your side of Web3 — MetaMask, Farcaster, or Monad. 
