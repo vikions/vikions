@@ -3,7 +3,7 @@
 **Junior QA Engineer · Node Operator · Web3 Builder**  
 Passionate about blockchain, dApps, and building cool stuff
 
-[![GitHub Streak](https://github-readme-streak-stats-snowy-two.vercel.app?user=vikions&theme=gruvbox-duo)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-snowy-two.vercel.app?user=vikions&theme=one-dark-pro)](https://git.io/streak-stats)
 
 
 ## 🚀 My work
