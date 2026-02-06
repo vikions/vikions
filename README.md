@@ -18,11 +18,10 @@ Passionate about blockchain, dApps, and building cool stuff
 
 ## Open source contributor
 
-Contributions to: Base, Circle, Polymarket, Ritual, Monad ecosystem  
-Merged pull requests → https://github.com/pulls?q=is%3Apr+author%3Avikions+is%3Amerged
+Base · Circle · Polymarket · Ritual · Monad ecosystem  
+[Merged pull requests](https://github.com/pulls?q=is%3Apr+author%3Avikions+is%3Amerged)
 
 ---
-
 
 ## 🌐 Connect with Me  
 
