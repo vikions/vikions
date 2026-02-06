@@ -16,10 +16,13 @@ Passionate about blockchain, dApps, and building cool stuff
 - **[Beat Powell](https://beat-powell-base.vercel.app)** — Every crypto trader is secretly waiting for Jerome Powell to cut rates…
 - **[Monad Anti-Beat](https://monad-anti-beat.vercel.app)** — the worse your sense of rhythm, the higher your score!
 
-№№ Open source contributor 
-Base, Circle, Polymarket, RItual, Monad ecosystem
-https://github.com/pulls?q=is%3Apr+author%3Avikions+is%3Amerged
+## Open source contributor
+
+Contributions to: Base, Circle, Polymarket, Ritual, Monad ecosystem  
+Merged pull requests → https://github.com/pulls?q=is%3Apr+author%3Avikions+is%3Amerged
+
 ---
+
 
 ## 🌐 Connect with Me  
 
