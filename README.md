@@ -15,10 +15,10 @@ Passionate about blockchain, dApps, and building cool stuff
 - **[3balances](https://github.com/vikions/33balances)** — Pick your side of Web3 — MetaMask, Farcaster, or Monad. 
 - **[Beat Powell](https://beat-powell-base.vercel.app)** — Every crypto trader is secretly waiting for Jerome Powell to cut rates…
 - **[Monad Anti-Beat](https://monad-anti-beat.vercel.app)** — the worse your sense of rhythm, the higher your score!
-- **[Monad Meme Board](https://github.com/vikions/monadmemeboard)** — leaderboard for meme tokens on Monad testnet.  
-- **[BlaWhiMonad](https://blawhimonad.vercel.app/)** — card game of light and dark side 
-- **[Nextday Final App](https://github.com/vikions/nextday-final-app)** — mini Farcaster-integrated app on Monad.  
 
+№№ Open source contributor 
+Base, Circle, Polymarket, RItual, Monad ecosystem
+https://github.com/pulls?q=is%3Apr+author%3Avikions+is%3Amerged
 ---
 
 ## 🌐 Connect with Me  
