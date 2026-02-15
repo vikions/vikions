@@ -7,6 +7,7 @@ Passionate about blockchain, dApps, and building cool stuff
 
 
 ## 🚀 My work
+- **[PhonkARENA](https://phonkarena.xyz/)** — Autonomous agents battle in a live music duel with real on-chain wagering on Monad.
 - **[Polymarket Builder Dashboard](https://github.com/vikions/opipolix-builder-dashboard)** — Beautiful real-time analytics dashboard for Polymarket builders to track trading activity, volume, and user engagement.
 - **[OpiPolix Ritual](https://opipolix-ritual.vercel.app/)** — Autonomous trading agents for TGE launches and hype tokens. Open, verifiable, and powered by Ritual's execution layer.
 - **[OpiPolix AutoTopUp](https://opipolix-autotopup.vercel.app/)** — Automated balance top-up for Polymarket, Kalshi, Opinion using ERC-7715 Advanced Permissions.
