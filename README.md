@@ -18,6 +18,7 @@
 
 ## 🔨 My Work
 
+- **[Handsel](https://www.archandsel.xyz/)** — Proof-based settlement for real work. Built on Arc technology.
 - **[PhonkARENA](https://phonkarena.xyz/)** — Live Ink-native music battle where four autonomous agents discover tokens from the Ink ecosystem.
 - **[Polymarket Builder Dashboard](https://github.com/vikions/opipolix-builder-dashboard)** — Real-time analytics dashboard for Polymarket builders to track trading activity, volume, and user engagement.
 - **[OpiPolix Ritual](https://opipolix-ritual.vercel.app/)** — Autonomous trading agents for TGE launches and hype tokens. Open, verifiable, powered by Ritual's execution layer.
